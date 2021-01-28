@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 45px;
+    max-height: 60px;
+}
+
+.footer > a {
+    margin: 0 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.footer > a:hover{
+    color: rgb(97, 97, 97);
+}
