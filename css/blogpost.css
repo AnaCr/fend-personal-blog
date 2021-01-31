@@ -24,14 +24,12 @@
 }
 
 .author-container > p {
-    margin: 0 10px;
-    color:  rgb(179, 2, 2);
-    font-weight: bold;
+  margin: 0 10px;
+  color: rgb(179, 2, 2);
 }
 
 .author-container > span {
-    font-style: italic;
-    color: rgb(110, 110, 110);
+  color: rgb(110, 110, 110);
 }
 
 .author-img {
