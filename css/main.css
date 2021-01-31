@@ -42,3 +42,15 @@ button:hover {
     background-color: rgb(179, 2, 2);
 }
 
+figure {
+  width: 40%;
+  margin: 0 auto 0 auto;
+}
+
+figure > img {
+  width: 100%;
+}
+
+figcaption {
+  color: rgb(179, 2, 2);
+}
