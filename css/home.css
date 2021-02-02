@@ -8,12 +8,6 @@
     "footer";
 }
 
-@media (min-width: 1034px) {
-  .home-container {
-    grid-template-rows: 22% auto 5%;
-  }
-}
-
 .home-header {
   grid-area: header;
   background-image: url("../img/home.jpg");
