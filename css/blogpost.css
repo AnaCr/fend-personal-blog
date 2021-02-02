@@ -54,13 +54,6 @@
   object-fit: cover;
 }
 
-.post-img {
-  width: 300px;
-  height: 300px;
-  object-fit: cover;
-  margin: 15px;
-}
-
 .page-button {
   margin: 15px;
 }
