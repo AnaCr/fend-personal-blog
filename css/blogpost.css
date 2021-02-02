@@ -1,8 +1,8 @@
 .post-container {
   background-color: white;
   display: grid;
-  grid-gap: 1%;
-  grid-template-rows: 18% auto 5%;
+  grid-gap: 20px;
+  grid-template-rows: 300px 1fr 60px;
   grid-template-areas:
     "header"
     "post"
@@ -42,7 +42,7 @@
 
 .post {
   grid-area: post;
-  width: 100%;
+  width: 80%;
   max-width: 900px;
   padding: 0 20px;
   margin-left: auto;
@@ -50,7 +50,7 @@
 }
 
 .banner-img {
-  height: 90%;
+  height: 70%;
   object-fit: cover;
 }
 
